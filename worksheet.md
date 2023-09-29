@@ -1,3 +1,5 @@
+Feedback: Please edit your work directyly to github files, avoid uploading unecessary files. You still need to answer 2-3 in the challenge section. You may revise and resubmit by 10/05
+
 # 9/11 Worksheet: ArrayLists and LinkedLists
 ## Initial due date: *09/18 @11:59pm*
 
